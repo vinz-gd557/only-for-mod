@@ -5,7 +5,7 @@
   },
   "version": "v1.0.0",
   "id": "com.vinz.novamenu",
-  "name": "Floating Menu Mod",
+  "name": "Nova Menu",
   "developer": "Vinz",
   "description": "Floating draggable button with Level, Player, Cosmetic, and Bot Replay tabs.",
   "repository": "https://github.com/vinz/floating-menu-mod",

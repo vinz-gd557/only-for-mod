@@ -4,7 +4,7 @@
     "android": "2.2081"
   },
   "version": "v1.0.0",
-  "id": "com.vinz.menu",
+  "id": "com.vinz.novamenu",
   "name": "Floating Menu Mod",
   "developer": "Vinz",
   "description": "Floating draggable button with Level, Player, Cosmetic, and Bot Replay tabs.",
